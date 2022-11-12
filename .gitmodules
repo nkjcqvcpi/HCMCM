@@ -1,0 +1,15 @@
+[submodule "V-REP-YouBot-Demo"]
+	path = submodule/V-REP-YouBot-Demo
+	url = git://github.com/chauby/V-REP-YouBot-Demo.git
+
+[submodule "table-cleaner"]
+	path = submodule/table-cleaner
+	url = git://github.com/cloudy/table-cleaner.git
+
+[submodule "sawyer-pnp"]
+	path = submodule/sawyer-pnp
+	url = git://github.com/micahreich/sawyer-pnp.git
+
+[submodule "mujoco-py"]
+	path = submodule/mujoco-py
+	url = git://github.com/openai/mujoco-py.git
